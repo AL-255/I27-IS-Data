@@ -1,3 +1,5 @@
-./*.npz
-./*.json
-./*.pdf
+*.npz
+*.json
+*.pdf
+*.csv
+*.png
